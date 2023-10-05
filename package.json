@@ -1,0 +1,18 @@
+{
+  "name": "url_shortener",
+  "version": "0.0.1",
+  "description": "A URL Link Shortener",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matthew Hepworth",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
+  }
+}
