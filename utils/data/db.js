@@ -1,9 +1,9 @@
 const { Pool } = require('pg');
 const pool = new Pool({
-    user: 'urlgen',
-    database: 'urls',
-    password: 'URLGEN558!',
-    port: 5432,
+    user: '',
+    database: '',
+    password: '',
+    port: 0000,
     host: 'localhost', //VPS
 });
 
